@@ -1,4 +1,4 @@
-# AraTgBot
+# Lua tgBot
 AraTgabot - TelegramBot
 
 ### main bot cmd
